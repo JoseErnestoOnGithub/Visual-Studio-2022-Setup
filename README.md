@@ -25,3 +25,10 @@ Visual Studio 2022 will be successfully installed on your device!
 
 Source: https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements
 
+# Known issues
+Computers that do not meet the minimum system requirements (For example, 32-bit computers, Windows in Arm64 technology, etc.) will prevent Visual Studio 2022 from installing.
+There are a lot a bugs that Microsoft needs to fix. For a possible solution, follow these steps:
+Step 1: Send a problem report to Microsoft. Open the link, https://aka.ms/WIPFeedbackHub, and ask a new question. Wait for other people to respond, and they will send a message to you that Microsoft can fix.
+Step 2: If you're having trouble signing in into your Microsoft account, try using this javascript function, which will solve the problem. Open the console and copy the code: DiagnoseErrors(), then paste it into the console. Now, the troubleshooter will open. The troubleshooter will check for network problems. Once the problems are being checked, if issues are found, the troubleshooter will fix this automatically.
+
+** Happy coding! **
